@@ -8,4 +8,5 @@ variable "instance-type" {
 
 variable "key_name" {
   description = "Exixstin aws key"
+  type = string
 }
