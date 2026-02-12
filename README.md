@@ -1,11 +1,3 @@
-Perfect ✅
-Below is your **clean, copy-paste ready README.md**.
-No emojis. No images. Fully structured. Recruiter-ready.
-
-You can paste this directly into your `README.md`.
-
----
-
 # Terraform EC2 Deployment on AWS
 
 ## Project Overview
